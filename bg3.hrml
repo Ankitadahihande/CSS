@@ -1,0 +1,16 @@
+<! doctype html>
+<html>
+<head>
+<style>
+body{background-color:lightgrey; color:blue;}
+h1{background-color:black; color:white;}
+div{background-color:blue; color:white;}
+
+
+</style>
+</head><body>
+<h2>CSS Padding</h2>
+<p>hi Ankita</p>
+<div>Hi Ankita Deepa.</div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+#rcorners1{
+    border-radius:15px 50px 30px 5px;
+    background:#73AD21;
+    padding:20px;
+    width:200px;
+    height:150px;
+    }
+    #rcorners2 {
+      border-radius: 15px 50px 30px;
+    background:#73AD21;
+    background:;
+      padding: 20px; 
+      width: 200px;
+      height: 150px; 
+    }
+    
+    
+    .dot {
+      border-radius: 50%;
+      background: #73AD21;
+      display: inline-block;      
+      width: 200px;
+      height: 200px; 
+    }
+    

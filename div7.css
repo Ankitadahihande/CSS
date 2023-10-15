@@ -1,0 +1,27 @@
+div
+{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    width:30%;
+}
+.one
+{
+    background-color:black;    
+    float: left;  
+}
+.two
+{
+    background-color:green;
+    float: left;
+}
+.three
+{
+    background-color: blue;
+    float: left;
+}

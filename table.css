@@ -1,0 +1,21 @@
+
+table,th,td{
+  border:10px solid black;
+  border-collapse:collapse;
+  }
+th,td{
+    border:1px solid gray;
+    border-collapse:collapse;
+    }
+  
+ .d1{
+    background-color:rgb(40, 69, 78);
+    color:white;
+ }
+ .d2{
+    background-color:lightblue;
+
+ }
+ .d3{
+    background-color:lightblue;
+ }
